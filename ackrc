@@ -1,0 +1,4 @@
+--type-add=cc=.rsc,.p,.mak,.mk,.inl,.dep,.idl
+--type-set=rsc=.rsc
+--type-set=header=.h,.p,.idl
+

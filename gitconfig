@@ -1,0 +1,23 @@
+[core]
+	editor = vim
+	excludesfile = /Users/simon/.gitignore
+[user]
+	name = Simon Olsberg
+	email = simon@caliper.com
+[diff]
+  tool = opendiff
+[difftool]
+  prompt = false
+[color]
+	ui = auto
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    di = diff
+    dc = diff --cached
+    lg = log -p
+    who = shortlog -s --
+    ms = checkout master
+    
